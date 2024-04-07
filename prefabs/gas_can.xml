@@ -1,0 +1,6 @@
+<prefab version="1.0.0">
+	<group pos="0.0 0.0 0.0">
+		<vox tags="bombsquad_bomb=medium bombsquad_bombid=gas_can" pos="0.0 0.0 0.0" file="MOD/vox/gas_can.vox"/>
+	</group>
+</prefab>
+

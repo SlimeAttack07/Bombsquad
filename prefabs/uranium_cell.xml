@@ -1,0 +1,6 @@
+<prefab version="1.0.0">
+	<group pos="0.0 0.0 0.0">
+		<vox tags="bombsquad_bomb=medium bombsquad_bombid=uranium_cell" pos="0.0 0.0 0.0" file="MOD/vox/uranium_cell.vox"/>
+	</group>
+</prefab>
+

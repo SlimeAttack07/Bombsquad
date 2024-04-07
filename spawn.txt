@@ -1,0 +1,112 @@
+# truck
+prefabs/truck.xml : Truck/Bombsquad Truck
+
+# Small Bombs
+prefabs/suitcase1.xml: Bombsquad Small Bombs/Suitcase Bomb (Black)
+prefabs/suitcase2.xml: Bombsquad Small Bombs/Suitcase Bomb (White)
+prefabs/suitcase3.xml: Bombsquad Small Bombs/Suitcase Bomb (Brown)
+prefabs/bomb.xml: Bombsquad Small Bombs/Small Timebomb
+prefabs/pipebomb.xml: Bombsquad Small Bombs/Pipebomb
+prefabs/mini_nitro.xml: Bombsquad Small Bombs/Mini Nitro
+prefabs/propane_canister.xml: Bombsquad Small Bombs/Propane Canister
+prefabs/crate_small.xml: Bombsquad Small Bombs/Small Explosive Crate
+prefabs/dynamite.xml: Bombsquad Small Bombs/Dynamite
+prefabs/grenade.xml: Bombsquad Small Bombs/Grenade
+prefabs/c4.xml: Bombsquad Small Bombs/C4
+prefabs/envelope.xml: Bombsquad Small Bombs/Envelope
+prefabs/present1.xml: Bombsquad Small Bombs/Present Bomb (Orange)
+prefabs/present2.xml: Bombsquad Small Bombs/Present Bomb (Purple)
+prefabs/present3.xml: Bombsquad Small Bombs/Present Bomb (Cyan)
+prefabs/present4.xml: Bombsquad Small Bombs/Present Bomb (Pink)
+prefabs/present5.xml: Bombsquad Small Bombs/Present Bomb (Blue)
+prefabs/present6.xml: Bombsquad Small Bombs/Present Bomb (Black)
+prefabs/present7.xml: Bombsquad Small Bombs/Present Bomb (Red)
+prefabs/present8.xml: Bombsquad Small Bombs/Present Bomb (Light Blue)
+prefabs/present9.xml: Bombsquad Small Bombs/Present Bomb (White)
+prefabs/present10.xml: Bombsquad Small Bombs/Present Bomb (Magenta)
+prefabs/present11.xml: Bombsquad Small Bombs/Present Bomb (Lime)
+prefabs/present12.xml: Bombsquad Small Bombs/Present Bomb (Light Gray)
+prefabs/present13.xml: Bombsquad Small Bombs/Present Bomb (Yellow)
+prefabs/present14.xml: Bombsquad Small Bombs/Present Bomb (Brown)
+prefabs/present15.xml: Bombsquad Small Bombs/Present Bomb (Green)
+prefabs/present16.xml: Bombsquad Small Bombs/Present Bomb (Gray)
+prefabs/molotov.xml: Bombsquad Small Bombs/Molotov
+prefabs/water_bottle.xml: Bombsquad Small Bombs/Bottle Bomb
+prefabs/toy_tank.xml: Bombsquad Small Bombs/Toy Tank Bomb
+prefabs/toy_boat.xml: Bombsquad Small Bombs/Toy Boat Bomb
+prefabs/shotgun_shell.xml: Bombsquad Small Bombs/Shotgun Shell
+prefabs/cartoon_bomb.xml: Bombsquad Small Bombs/Cartoon Bomb
+prefabs/pulse_bomb.xml: Bombsquad Small Bombs/Pulse Bomb
+
+# Medium Bombs
+prefabs/nitroglycerin.xml : Bombsquad Medium Bombs/Nictorglycerin
+prefabs/liquid_container.xml: Bombsquad Medium Bombs/Explosive Container
+prefabs/crate_medium.xml: Bombsquad Medium Bombs/Medium Explosive Crate
+prefabs/dynamite_bundle.xml: Bombsquad Medium Bombs/Dynamite Bundle
+prefabs/nitro_bundle.xml: Bombsquad Medium Bombs/Nitro Bundle
+prefabs/oversized_grenade.xml: Bombsquad Medium Bombs/Oversized Grenade
+prefabs/backpack1.xml: Bombsquad Medium Bombs/Backpack Bomb (Brown)
+prefabs/backpack2.xml: Bombsquad Medium Bombs/Backpack Bomb (Gray)
+prefabs/backpack3.xml: Bombsquad Medium Bombs/Backpack Bomb (Red)
+prefabs/backpack4.xml: Bombsquad Medium Bombs/Backpack Bomb (Black)
+prefabs/backpack5.xml: Bombsquad Medium Bombs/Backpack Bomb (Blue)
+prefabs/backpack6.xml: Bombsquad Medium Bombs/Backpack Bomb (White)
+prefabs/backpack7.xml: Bombsquad Medium Bombs/Backpack Bomb (Green)
+prefabs/backpack8.xml: Bombsquad Medium Bombs/Backpack Bomb (Yellow)
+prefabs/backpack9.xml: Bombsquad Medium Bombs/Backpack Bomb (Purple)
+prefabs/backpack10.xml: Bombsquad Medium Bombs/Backpack Bomb (Orange)
+prefabs/backpack11.xml: Bombsquad Medium Bombs/Backpack Bomb (Pink)
+prefabs/backpack12.xml: Bombsquad Medium Bombs/Backpack Bomb (Light Blue)
+prefabs/backpack13.xml: Bombsquad Medium Bombs/Backpack Bomb (Cyan)
+prefabs/backpack14.xml: Bombsquad Medium Bombs/Backpack Bomb (Lime)
+prefabs/backpack15.xml: Bombsquad Medium Bombs/Backpack Bomb (Light Gray)
+prefabs/backpack16.xml: Bombsquad Medium Bombs/Backpack Bomb (Magenta)
+prefabs/red_barrel.xml: Bombsquad Medium Bombs/Red Barrel
+prefabs/bomb_bird.xml: Bombsquad Medium Bombs/Bomb Bird
+prefabs/creeper.xml: Bombsquad Medium Bombs/Creeper
+prefabs/rocket.xml: Bombsquad Medium Bombs/Rocket
+prefabs/uranium_cell.xml: Bombsquad Medium Bombs/Uranium Cell
+prefabs/gunpowder_barrel.xml: Bombsquad Medium Bombs/Gunpowder Barrel
+prefabs/gas_can.xml: Bombsquad Medium Bombs/Gas Can
+prefabs/tank_shell.xml: Bombsquad Medium Bombs/Tank Shell
+
+# Large Bombs
+prefabs/propane_tank.xml: Bombsquad Large Bombs/Propane Tank
+prefabs/dynamite_crate.xml: Bombsquad Large Bombs/Dynamite Crate
+prefabs/duffel_bag1.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Red)
+prefabs/duffel_bag2.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Blue)
+prefabs/duffel_bag3.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Yellow)
+prefabs/duffel_bag4.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Green)
+prefabs/duffel_bag5.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Lime)
+prefabs/duffel_bag6.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Light Blue)
+prefabs/duffel_bag7.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Orange)
+prefabs/duffel_bag8.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Magenta)
+prefabs/duffel_bag9.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Pink)
+prefabs/duffel_bag10.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Purple)
+prefabs/duffel_bag11.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Cyan)
+prefabs/duffel_bag12.xml: Bombsquad Large Bombs/Duffel Bag Bomb (White)
+prefabs/duffel_bag13.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Black)
+prefabs/duffel_bag14.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Brown)
+prefabs/duffel_bag15.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Gray)
+prefabs/duffel_bag16.xml: Bombsquad Large Bombs/Duffel Bag Bomb (Light Gray)
+prefabs/large_nitro_bomb.xml: Bombsquad Large Bombs/Large Nitro Bomb
+prefabs/torpedo.xml: Bombsquad Large Bombs/Torpedo
+prefabs/nuclear_reactor.xml: Bombsquad Large Bombs/Nuclear Reactor
+prefabs/gunpowder_cart.xml: Bombsquad Large Bombs/Gunpowder Cart
+prefabs/charged_creeper.xml: Bombsquad Large Bombs/Charged Creeper
+prefabs/bob_omb.xml: Bombsquad Large Bombs/Bob-omb
+prefabs/artillery_shell.xml: Bombsquad Large Bombs/Artillery Shell
+prefabs/rip_tire.xml: Bombsquad Large Bombs/Rip-Tire
+
+# Mega Bombs
+prefabs/sea_mine.xml: Bombsquad Mega Bombs/Sea Mine
+prefabs/icbm.xml: Bombsquad Mega Bombs/ICBM
+prefabs/nuke.xml: Bombsquad Mega Bombs/Mini Nuke
+prefabs/anti_matter_bomb.xml: Bombsquad Mega Bombs/Anti-Matter Bomb
+prefabs/mega_nitro_bomb.xml: Bombsquad Mega Bombs/Mega Nitro Bomb
+prefabs/tsar_bomba.xml: Bombsquad Mega Bombs/Tsar Bomba
+prefabs/energy_sphere.xml: Bombsquad Mega Bombs/Energy Sphere
+prefabs/xl_nuclear_reactor.xml: Bombsquad Mega Bombs/XL Nuclear Reactor
+prefabs/battleship_shell.xml: Bombsquad Mega Bombs/Batleship Shell
+prefabs/king_bob_omb.xml: Bombsquad Mega Bombs/King Bob-omb
+prefabs/tokki.xml: Bombsquad Mega Bombs/Tokki (D.va's Mech)

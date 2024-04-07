@@ -1,0 +1,4 @@
+name = Bombsquad
+author = SlimeAttack07
+description = A crazy bomber has invaded Teardown! Join the bombsquad, locate the bombs and dismantle them before they detonate!! Read the steam workshop page for supported maps. [noupload]
+tags = Tool

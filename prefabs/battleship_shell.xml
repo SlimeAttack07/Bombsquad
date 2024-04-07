@@ -1,0 +1,6 @@
+<prefab version="1.0.0">
+	<group pos="0.0 0.0 0.0">
+		<vox tags="bombsquad_bomb=mega bombsquad_bombid=battleship_shell" pos="0.0 0.0 0.0" file="MOD/vox/battleship_shell.vox"/>
+	</group>
+</prefab>
+

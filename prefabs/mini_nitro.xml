@@ -1,0 +1,6 @@
+<prefab version="1.0.0">
+	<group pos="0.0 0.0 0.0">
+		<vox tags="bombsquad_bomb=small bombsquad_bombid=mini_nitro" pos="0.0 0.0 0.0" file="MOD/vox/mini_nitro.vox"/>
+	</group>
+</prefab>
+
